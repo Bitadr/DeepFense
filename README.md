@@ -40,6 +40,7 @@ python defense.py --help
 
 ## Usage
 
+* Make sure to use Tensorflow as the backend for Keras
 * Determine the function desired
 * pass in the argument to specify the function
 * pass in argument to specify specific parameters (if desired)
@@ -49,5 +50,5 @@ python defense.py --help
 example:
 ```
 cd mnist
-python defense.pyc -Train
+python defense.pyc --Train
 ```

@@ -15,7 +15,7 @@ ompbox10. See http://www.cs.technion.ac.il/~ronrubin/software.html for installat
 **mnist/defense.py:** the main function to train model and perform attacks, with function parameters specified using function arguments. For more information please run:
 ```
 cd mnist
-python defense.py --help
+python defense.pyc --help
 ```
 
 **denoiser.m:** a matlab script that uses ompbox10 to denoise images.

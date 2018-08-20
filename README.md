@@ -1,6 +1,6 @@
-# CuRTAIL
+# DeepFense
 
-This repository provides an API for CuRTAIL framework (http://arxiv.org/abs/1709.02538). CuRTAIL can be used as a generic framework for characterizing and thwarting  adversarial samples in the context of deep learning.
+This repository provides an API for DeepFense framework. Deepfense can be used as a generic framework for characterizing and thwarting  adversarial samples in the context of deep learning.
 
 
 ### Python Packages Required:
@@ -22,7 +22,7 @@ python defense.pyc --help
 
 **curtail.pyc:** includes modules required for all attack and defense algorithms.
 
-**Note:** Most files are provided in .pyc file format. The repo includes an example with mnist dataset. If you wish to use CuRTAIL framework on a different model topology, please email bita@ucsd.edu and we will provide the corresponding executables for your model.
+**Note:** Most files are provided in .pyc file format. The repo includes an example with mnist dataset. If you wish to use DeepFense framework on a different model topology, please email bita@ucsd.edu and we will provide the corresponding executables for your model.
 
 
 ### Functions

@@ -1,6 +1,6 @@
 # DeepFense
 
-This repository provides an API for DeepFense framework. Deepfense can be used as a generic framework for characterizing and thwarting  adversarial samples in the context of deep learning.
+This repository provides an API for DeepFense framework. DeepFense can be used as a generic framework for characterizing and thwarting  adversarial samples in the context of deep learning.
 
 
 ### Python Packages Required:
